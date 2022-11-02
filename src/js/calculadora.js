@@ -13,7 +13,15 @@ const Calculadora = {
 
 	},
 	subtrair: (num1, num2) => {
-		return 0;
+		if(isNaN(num1)){
+			return 0;
+		}
+
+		if(isNaN(num2)){
+			return 0;
+		}
+		
+		return num1 - num2;
 
 	},
 	multiplicar: (num1, num2) => {
