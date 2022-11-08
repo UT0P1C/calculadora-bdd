@@ -4,9 +4,9 @@
 ## utilizando Node.js, Jasmine e Karma
 
 
-	Jasmine - Framework js para criação de testes unitários
+	Jasmine - biblioteca js para criação de testes unitários
 
-	Karma - Framework para automatização de testes unitários
+	Karma - biblioteca js para automatização de testes unitários
 
 
 ## Resumo:
